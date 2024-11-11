@@ -1,0 +1,15 @@
+h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+.quotes p{
+    font-size: 32px;
+}
+.quotes .content button{
+    background-color: #0000FF;
+    border: 2px solid;
+    border-color: #545454 #000000 #000000 #545454;
+}
+.quotes .content button:hover{
+    background-color: #008000;
+}
